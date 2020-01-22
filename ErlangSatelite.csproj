@@ -48,6 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Erlang\helloworld.erl" />
+    <None Include="Erlang\httpnet.erl" />
+    <None Include="Erlang\old\httpnet – копія.erl" />
+    <None Include="Erlang\old\scripts – копія.erl" />
+    <None Include="Erlang\scripts.erl" />
+    <None Include="Erlang\tcp\client.erl" />
+    <None Include="Erlang\tcp\server.erl" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
